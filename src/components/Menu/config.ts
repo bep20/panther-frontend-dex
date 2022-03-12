@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: '/farms',
+    href: 'https://pantherswap.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '/pools',
+    href: 'https://pantherswap.com/pools',
   },
   {
     label: 'Jungles',
     icon: 'JungleIcon',
-    href: '/jungles',
+    href: 'https://pantherswap.com/jungles',
   },
   {
     label: 'Lottery',
